@@ -1,0 +1,26 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "Learning typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temich080/ts-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/temich080/ts-learning/issues"
+  },
+  "homepage": "https://github.com/temich080/ts-learning#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "typescript": "^4.3.2"
+  }
+}
