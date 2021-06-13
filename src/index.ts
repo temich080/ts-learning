@@ -5,3 +5,7 @@ let person = {
 };
 
 console.log(person.role);
+console.log(person.role);
+console.log(person.role);
+console.log(person.role);
+console.log(person.role);
