@@ -25,9 +25,3 @@
 // console.log(userName, age);
 
 // End of module
-
-
-// Module Classes and Interfaces (50-73) - 1h30m
-// 51 What are classes
-
-console.log('It works12')
